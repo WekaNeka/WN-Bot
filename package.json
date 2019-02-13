@@ -1,0 +1,17 @@
+{
+  "name": "bpupki-bot",
+  "version": "1.0.0",
+  "description": "Bot yang dibuat untuk kesenangan ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alit Purnama",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "opusscript": "0.0.6",
+    "queue": "^5.0.1",
+    "ytdl-core": "^0.29.1"
+  }
+}
